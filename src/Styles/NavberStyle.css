@@ -42,6 +42,27 @@
     border-radius: 5px;
 }
 
+.eyeImage{
+    width: 67px;
+    height: 67px;
+    background: #f1963a;
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    border-radius: 50%;
+    padding: 5px;
+    cursor: pointer;
+}
+
 ol, ul {
     padding-left: 0rem;
 }
+
+body::-webkit-scrollbar {
+    width: 12px;            
+  }
+
+  body::-webkit-scrollbar-thumb {
+    background-color: #f1963a;    
+
+  }

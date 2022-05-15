@@ -1,0 +1,29 @@
+.leftImage{
+    width: 35%;
+}
+
+.rightContent{
+    text-align: end;
+}
+
+.oneNeuron{
+    font-size: 4rem;
+    color: #233c7b;
+}
+
+.homePara{
+    font-size: 1.1rem;
+    font-weight: 400;
+    color: #565f7a;
+}
+
+.exploreButton{
+    background: linear-gradient( 96.59deg,#233c7b 47.65%,rgba(0,9,75,0.85) 114.17% );
+	color: #ffffff;
+	border: none;
+	padding: 0;
+    padding: 12px 35px;
+    font-size: .875rem;
+    font-weight: 500;
+    border-radius: 5px;
+}
